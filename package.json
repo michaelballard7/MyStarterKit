@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/michaelballard7/thisARepo/issues"
   },
-  "homepage": "https://github.com/michaelballard7/thisARepo#readme"
+  "homepage": "https://github.com/michaelballard7/thisARepo#readme",
+  "dependencies": {
+    "react": "^16.8.6"
+  }
 }
